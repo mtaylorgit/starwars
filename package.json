@@ -1,7 +1,6 @@
 {
   "name": "star-wars-react-state-review",
   "version": "1.0.0",
-  "homepage": "http://mtaylorgit.github.io/starwars"
   "description": "",
   "keywords": [],
   "main": "src/index.js",
